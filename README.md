@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janveer123
--I’m currently learning python GUI tkinter
--I’m looking for  help.
+- I’m currently learning python GUI tkinter
+- I’m looking for  help.
 
 <!---
 janveer123/janveer123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
